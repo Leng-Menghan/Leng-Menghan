@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hi, I'm Leng Menghan</h1>
-<br>
-<h1 align="center">🎯 Mobile and Web Developer Intern | Software Engineering Student at CADT</h1>
-<br>
-<hr style="border:0.2px solid #ddd;">
+<h3 align="center">🎯 Mobile and Web Developer Intern | Software Engineering Student at CADT</h3>
 
 ## 🚀 About Me
 
