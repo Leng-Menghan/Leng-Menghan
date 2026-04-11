@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Leng Menghan
+## 👋 Hi there, I'm Leng Menghan
 
 🎯 **Mobile and Web Developer Intern | Software Engineering Student at CADT**
 
----
+<hr style="border:0.5px solid #eaeaea;">
 
 ## 🚀 About Me
 
@@ -70,10 +70,11 @@ I enjoy solving real-world problems, building clean user interfaces, and develop
 
 ## 🎓 Education
 
+* **Cambodia Academy of Digital Technology (CADT)**
 * 🎓 Bachelor of Computer Science (Software Engineering)
-  **Cambodia Academy of Digital Technology (CADT)**
-  GPA: 3.83 (Scholarship Student)
+* GPA: 3.83 (Scholarship Student)
 
+* **CamTech University**
 * 📘 English Level: B2 (Upper-Intermediate)
 
 ---
@@ -99,12 +100,6 @@ I enjoy solving real-world problems, building clean user interfaces, and develop
 * 📱 Phone: +855 16 556 528
 * 💬 Telegram: https://t.me/Leng_MengHAN
 * 💻 GitHub: https://github.com/Leng-Menghan
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leng-Menghan&show_icons=true)
 
 ---
 
