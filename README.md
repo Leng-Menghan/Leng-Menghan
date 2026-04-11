@@ -2,7 +2,6 @@
 
 🎯 **Mobile and Web Developer Intern | Software Engineering Student at CADT**
 
-<hr style="border:0.5px solid #eaeaea;">
 
 ## 🚀 About Me
 
@@ -71,11 +70,11 @@ I enjoy solving real-world problems, building clean user interfaces, and develop
 ## 🎓 Education
 
 * **Cambodia Academy of Digital Technology (CADT)**
-* 🎓 Bachelor of Computer Science (Software Engineering)
-* GPA: 3.83 (Scholarship Student)
+  🎓 Bachelor of Computer Science (Software Engineering)
+  GPA: 3.83 (Scholarship Student)
 
 * **CamTech University**
-* 📘 English Level: B2 (Upper-Intermediate)
+  📘 English Level: B2 (Upper-Intermediate)
 
 ---
 
