@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Leng Menghan</h1>
 <h3 align="center">🎯 Mobile and Web Developer Intern | Software Engineering Student at CADT</h3>
-
+<br>
 ## 🚀 About Me
 
 I am a Software Engineering student at the Cambodia Academy of Digital Technology (CADT) with a strong passion for mobile and web development.
@@ -68,11 +68,11 @@ I enjoy solving real-world problems, building clean user interfaces, and develop
 ## 🎓 Education
 
 * **Cambodia Academy of Digital Technology (CADT)**
-  🎓 Bachelor of Computer Science (Software Engineering)
-  GPA: 3.83 (Scholarship Student)
+  <br>🎓 Bachelor of Computer Science (Software Engineering)
+  <br>GPA: 3.83 (Scholarship Student)
 
 * **CamTech University**
-  📘 English Level: B2 (Upper-Intermediate)
+  <br>📘 English Level: B2 (Upper-Intermediate)
 
 ---
 
