@@ -1,7 +1,8 @@
-## 👋 Hi there, I'm Leng Menghan
-
-🎯 **Mobile and Web Developer Intern | Software Engineering Student at CADT**
-
+<h1 align="center">👋 Hi, I'm Leng Menghan</h1>
+<br>
+<h1 align="center">🎯 Mobile and Web Developer Intern | Software Engineering Student at CADT</h1>
+<br>
+<hr style="border:0.2px solid #ddd;">
 
 ## 🚀 About Me
 
